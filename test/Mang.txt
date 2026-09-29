@@ -1,0 +1,9 @@
+=== DANH SÁCH CÁC MẢNG SỐ NGUYÊN ĐƯỢC TÁCH TỪ TẬP TIN ===
+Nguồn gốc: D:\Learn\Hutech\TH_lap_trinh_mang\BaiTap\LTM\test\test.txt
+Tổng số đoạn mảng: 1
+Kích thước tối đa mỗi mảng: 100 phần tử
+==========================================================
+
+--- MẢNG ĐOẠN 1 (Kích thước: 10 phần tử) ---
+88, 105, 110, 32, 99, 104, 97, 111, 13, 10
+
